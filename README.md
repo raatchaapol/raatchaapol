@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raatchaapol
-- 👀 I’m interested in software engineering
+- 👀 I’m working at Agoda as a software engineer
 - 🌱 I’m currently learning Golang
 
 <!---
