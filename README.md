@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raatchaapol
 - 👀 I’m working at Agoda as a software engineer
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Kotlin
 
 <!---
 raatchaapol/raatchaapol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
